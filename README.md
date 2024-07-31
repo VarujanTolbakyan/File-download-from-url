@@ -1,1 +1,1 @@
-# ImageDownloadService
+# File Download Service (example)
